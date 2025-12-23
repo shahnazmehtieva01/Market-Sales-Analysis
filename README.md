@@ -16,13 +16,12 @@ This project presents a Power BI dashboard created to analyze retail sales data 
 ---
 
 ### 📁 Project Files
-- Power BI dashboard: ``  
-- Dataset: `dataset.xlsx` *(replace with your actual data file name)*  
+- Power BI dashboard: `Powerbi 3.pbix`  
+- Dataset: `dataset.xlsx`  
 
 ---
 
 ### 🖼️ Screenshots
-![Home Page](Screenshot 2025-12-24 010053.png)  
-*(Add more screenshots for specific cities, provinces, or products as needed)*  
+![dashboard](Screenshot 2025-12-24 010053.png)  
 
 ---
