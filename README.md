@@ -22,6 +22,6 @@ This project presents a Power BI dashboard created to analyze retail sales data 
 ---
 
 ### 🖼️ Screenshots
-![dashboard](Screenshot 2025-12-24 010053.png)  
+![dashboard](pbi2.png)  
 
 ---
